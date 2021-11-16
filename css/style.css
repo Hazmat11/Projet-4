@@ -88,3 +88,21 @@ body{
   color: white;
   transform: rotateY(180deg);
 }
+
+.projet1{
+  position: absolute;
+  top: 80%;
+  left: 30%;
+}
+
+.projet2{
+  text-align: center;
+  position: relative;
+  top: 80%;
+}
+
+.projet3{
+  position: absolute;
+  top: 80%;
+  right: 30%;
+}
