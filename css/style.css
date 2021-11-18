@@ -12,6 +12,8 @@ body{
   border-style: solid;
   border-width:  6px;
   border-color: #ee6e73;
+  max-height: 463px;
+  max-width: 468px;
 }
 
 .buttons{
