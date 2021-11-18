@@ -13,7 +13,6 @@ body{
   border-width:  6px;
   border-color: #ee6e73;
   max-height: 463px;
-  max-width: 468px;
 }
 
 .buttons{
@@ -30,6 +29,7 @@ h1{
   text-shadow: #26a69a 4px 4px 10px;
   text-transform: uppercase;
   text-decoration: underline;
+  font-size: 20vw;
 }
 
 nav{
