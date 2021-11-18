@@ -4,6 +4,12 @@ body{
   height: 100vh;
 }
 
+.small{
+  position: relative;
+  top: 6px;
+  right: 3px;
+}
+
 .carousel{
   margin: 0;
   position: absolute;
@@ -11,9 +17,4 @@ body{
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-}
-
-h1{
-  color: white;
-  text-align: center;
 }
