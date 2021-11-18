@@ -3484,7 +3484,6 @@ table span.badge {
   float: left;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  padding: 0 0.75rem;
   min-height: 1px;
 }
 
@@ -4743,8 +4742,6 @@ small {
 }
 
 .card {
-  position: relative;
-  margin: 0.5rem 0 1rem 0;
   background-color: #fff;
   -webkit-transition: -webkit-box-shadow .25s;
   transition: -webkit-box-shadow .25s;
@@ -5520,7 +5517,7 @@ button.btn-floating {
 .btn-large {
   height: 54px;
   line-height: 54px;
-  font-size: 15px;
+  font-size: 30px;
   padding: 0 28px;
 }
 
