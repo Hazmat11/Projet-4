@@ -2597,7 +2597,7 @@ textarea {
 }
 
 ul:not(.browser-default) {
-  padding-left: 0;
+  padding-left: 10px;
   list-style-type: none;
 }
 
@@ -4742,6 +4742,8 @@ small {
 }
 
 .card {
+  position: relative;
+  margin: 0.5rem 0 1rem 0;
   background-color: #fff;
   -webkit-transition: -webkit-box-shadow .25s;
   transition: -webkit-box-shadow .25s;
