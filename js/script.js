@@ -13,3 +13,7 @@ $(document).ready(function(){
       $('body').addClass('animate');
     });
   });
+
+  $(document).ready(function(){
+    $('.parallax').parallax();
+  });
