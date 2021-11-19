@@ -1,6 +1,6 @@
 body{
   width: 100%;
-  height: 100vh;
+  height: 100%;
 }
 
 img{
@@ -70,4 +70,22 @@ a{
 
 .code{
   text-align: center;
+  margin-top: 10px;
+}
+
+.link{
+  width: 100%;
+  background-color: #26a69a;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #ee6e73;
+}
+
+#sites{
+  color: white;
+  font-size: 30px;
+  text-transform: uppercase;
+  max-width: fit-content;
+  margin: 0 auto;
+  width: 100%;
 }
