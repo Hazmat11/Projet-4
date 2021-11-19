@@ -5,35 +5,20 @@ html{
 body{
   width: 100%;
   height: 100vh;
-}
-
-#bg{
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: -1;
-  background-image: radial-gradient(#2672a6, #311b92, black);
-}
-
-#trigger{
-  width: 60px;
-  height: 60px;
-  position: absolute;
-  top: 0;
-  right: 0;
-  z-index: 2;
-}
-
-#trigger:hover ~ #bg {
   background: linear-gradient(270deg, #2672a6, #311b92, #000000);
   background-size: 600% 600%;
   -webkit-animation: AnimationName 10s ease infinite;
   -moz-animation: AnimationName 10s ease infinite;
   animation: AnimationName 10s ease infinite;
+}
+
+button{
+  background-color: #ee6e73;
+}
+
+.animate{
+  background-image: url(https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif);
+  background-size: contain;
 }
 
 #icon{
