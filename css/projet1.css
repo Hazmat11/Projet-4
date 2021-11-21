@@ -81,6 +81,12 @@ a{
   border-color: #ee6e73;
 }
 
+.logo:hover{
+  border-style: dotted;
+  border-width: 4px;
+  border-color: #ee6e73;
+}
+
 #sites{
   color: white;
   font-size: 30px;
